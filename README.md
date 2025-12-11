@@ -1,4 +1,4 @@
-🌐 <b>Website-HTML-CS</b> 
+🌐 <b>Website-HTML-CSS</b> 
 
 <b>Restaurante de sushi 🍣</b><br>
 Esta web creada siguendo un tutorial simula la página web de un restaurante de sushi ficticio
